@@ -12,16 +12,11 @@ Maria has asked you to use your data skills to help her search for the best scho
 
 ## What to do:
 Clean the Data for:
--Any duplicates
--Missing Values
--Inconsistent values
+Any duplicates, Missing Values, Inconsistent values
 
 Data Enrichment
--Calculate School Ranking
--Calculate the overall crime rate
+Calculate School Ranking, Calculate the overall crime rate
 
-Structure the Data: Merge the tables and produce the dataset which must have:
--Top 5 schools on rankings for It college
--Be in a city that is below 50th percentile in overall crime
+Structure the Data: Merge the tables and produce the dataset which must have: Top 5 schools on rankings for It college, Be in a city that is below 50th percentile in overall crime
 
 Remove unnecessary columns
